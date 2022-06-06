@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Agenda de Contactos</string>
+    <string name="nombre">Nombre:</string>
+    <string name="telefono">Telefono:</string>
+    <string name="correo_electr_nico">Correo Electrónico:</string>
+    <string name="button">Guardar</string>
+    <string name="menu_nuevo">Nuevo Registro</string>
+    <string name="enviar">Enviar</string>
+    <string name="enviar_sms">Escribir SMS</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_splash_screen">Agenda de Contactos</string>
+</resources>
